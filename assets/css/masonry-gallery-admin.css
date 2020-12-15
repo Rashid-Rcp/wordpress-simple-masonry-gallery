@@ -1,0 +1,26 @@
+#masonry_gallery_add_images .img-container .img-thumbnail{
+   display: inline-block;
+   position: relative;
+}
+#masonry_gallery_add_images .mg-item-remove{
+    position: absolute;
+    color: red;
+    border:1px solid red;
+    border-radius: 100%;
+    padding: 3px 6px;
+    right: 10px;
+    top: 10px;
+    font-weight: 900;
+    
+}
+#masonry_gallery_add_images .mg-item-remove:hover{
+    cursor: pointer;
+}
+#masonry_gallery_add_images .add-images{
+    background-color: #00669b;
+    color: #fff;
+    padding: 10px 30px;
+    border: 1px solid #00669b;
+    margin: 10px;
+
+}
