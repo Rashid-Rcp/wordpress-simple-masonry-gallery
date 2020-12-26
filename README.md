@@ -1,3 +1,3 @@
 # wordpress-simple-masonry-gallery
 
-Mininal masonry gallery for wordpress with lightbox
+Minimal masonry gallery for wordpress with lightbox
